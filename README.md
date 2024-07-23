@@ -18,13 +18,6 @@
 - [htmlburger/carbon-fields](https://github.com/htmlburger/carbon-fields): Carbon Fields - developer-oriented library for WordPress custom fields for all types of WordPress content.
 - [navidkashani/awesome-acf](https://github.com/navidkashani/awesome-acf): A collection of third party add-ons for advanced custom field plugin for WordPress. _Not under active development._
 
-## Deprecated
-- [dropndot/awesome-wordpress]([https://github.com/dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress)): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
-- [frontity/frontity](https://github.com/frontity/frontity): Frontity - The React Framework for WordPress. _Not under active development._
-- [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools): A collection of plugins, starter themes and tools to make WordPress development easier. _Not under active development._
-- [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. _Not under active development._
-- [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter): WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step. _Not under active development._
-
 ## Forks
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress): The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 
@@ -35,7 +28,6 @@
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan): WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
 ## Tools, Experiments, Boilerplates
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso): Calypso is the new WordPress.com front-end – a beautiful redesign of the WordPress dashboard using a single-page web application, powered by the WordPress.com REST API. Calypso is built for reading, writing, and managing all of your WordPress sites in one place.
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up): Plugins and resources to speed up and optimize your WordPress site.
 - [roots/acorn](https://github.com/roots/acorn): Laravel components for WordPress plugins and themes.
@@ -47,9 +39,17 @@
 - [vinkla/wordplate](https://github.com/vinkla/wordplate): WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [wp-bootstrap/wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker): A custom WordPress nav walker class to fully implement the Twitter Bootstrap 4.0+ navigation style (v3-branch available for Bootstrap 3) in a custom theme using the WordPress built in menu manager.
 
-## Automattic & WP Official Resources
+## Official Resources
+- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso): Calypso is the new WordPress.com front-end – a beautiful redesign of the WordPress dashboard using a single-page web application, powered by the WordPress.com REST API. Calypso is built for reading, writing, and managing all of your WordPress sites in one place.
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg): The Block Editor project for WordPress and beyond. Plugin is available from the official repository. 
 - [WordPress/openverse](https://github.com/WordPress/openverse): Openverse is a search engine for openly-licensed media. This monorepo includes all application code. 
 - [WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards): PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions.
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground): Run WordPress in the browser via WebAssembly PHP.
 - [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository.
+
+## Deprecated
+- [dropndot/awesome-wordpress]([https://github.com/dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress)): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
+- [frontity/frontity](https://github.com/frontity/frontity): Frontity - The React Framework for WordPress. _Not under active development._
+- [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools): A collection of plugins, starter themes and tools to make WordPress development easier. _Not under active development._
+- [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. _Not under active development._
+- [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter): WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step. _Not under active development._
