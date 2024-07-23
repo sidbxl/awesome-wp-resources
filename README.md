@@ -10,7 +10,7 @@
 - [roots/sage](https://github.com/roots/sage): WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow.
 - [WordPress/theme-experiments](https://github.com/WordPress/theme-experiments): Experimenting with themes made out of blocks. 
 
-# Blocks
+## Blocks
 - [ryanwelcher/advanced-query-loop](https://github.com/ryanwelcher/advanced-query-loop): WordPress plugin that introduces a Query Loop block variation that can create advanced queries.
 
 ## Custom Fields and workarounds
