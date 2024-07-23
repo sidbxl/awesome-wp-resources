@@ -46,6 +46,7 @@
 - [WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards): PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions.
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground): Run WordPress in the browser via WebAssembly PHP.
 - [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository.
+- [List of all WP Versions](https://fr.wordpress.org/support/article/wordpress-versions/)
 
 ## Deprecated
 - [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
