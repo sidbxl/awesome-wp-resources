@@ -21,7 +21,7 @@
 ## Forks
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress): The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 
-## WAAS & Plug-ins
+## WaaS & Plug-ins
 - [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress): Powering our community's event management needs. 
 - [kanbanwp/kanban](https://github.com/kanbanwp/kanban): A complete kanban board for WordPress.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce): A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. 
@@ -48,7 +48,7 @@
 - [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository.
 
 ## Deprecated
-- [dropndot/awesome-wordpress]([https://github.com/dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress)): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
+- [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
 - [frontity/frontity](https://github.com/frontity/frontity): Frontity - The React Framework for WordPress. _Not under active development._
 - [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools): A collection of plugins, starter themes and tools to make WordPress development easier. _Not under active development._
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. _Not under active development._
