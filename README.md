@@ -42,6 +42,7 @@
 - [roots/bud](https://github.com/roots/bud): High-performance build system that supports SWC, esbuild, and Babel.
 - [roots/trellis](https://github.com/roots/trellis): WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more.
 - [roots/trellis-cli](https://github.com/roots/trellis-cli): A CLI to manage Trellis projects.
+- [swissspidy/media-experiments](https://github.com/swissspidy/media-experiments): This experimental WordPress plugin aims to bring improved media capabilities to WordPress and specifically the block editor, all powered by new web platform features like WebAssembly.
 - [timber/timber](https://github.com/timber/timber): Create WordPress themes with beautiful OOP code and the Twig Template Engine.
 - [vinkla/wordplate](https://github.com/vinkla/wordplate): WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [wp-bootstrap/wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker): A custom WordPress nav walker class to fully implement the Twitter Bootstrap 4.0+ navigation style (v3-branch available for Bootstrap 3) in a custom theme using the WordPress built in menu manager.
