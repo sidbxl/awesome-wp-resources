@@ -43,7 +43,7 @@
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan): WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
 ##  WaaS (Wordpress as a Service)
-_ [ActivityPub](https://wordpress.org/plugins/activitypub/): Enter the fediverse with ActivityPub, broadcasting your blog to a wider audience! Attract followers, deliver updates, and receive comments from a diverse user base of ActivityPub-compliant platforms.
+- [ActivityPub](https://wordpress.org/plugins/activitypub/): Enter the fediverse with ActivityPub, broadcasting your blog to a wider audience! Attract followers, deliver updates, and receive comments from a diverse user base of ActivityPub-compliant platforms.
 - [Betterdocs](https://wordpress.org/plugins/betterdocs/): BetterDocs will help you to create & organize your documentation page in a beautiful way that will make your visitors find any help article easily. It will facilitate your client to make faster decisions and get help on the spot by self-servicing instead of avoiding lengthy conversations.
 - [Friends](https://wordpress.org/plugins/friends/): The Friends plugin allows you to follow content from other WordPress sites, and interact with them on your own site. You can follow friends and others via RSS. If you also have the ActivityPub plugin installed, you can follow people on Mastodon and other ActivityPub-compatible social networks.
 - [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress): Powering our community's event management needs.
