@@ -49,6 +49,7 @@
 *Wordpress as a Service*
 - [ActivityPub](https://wordpress.org/plugins/activitypub/): Enter the fediverse with ActivityPub, broadcasting your blog to a wider audience! Attract followers, deliver updates, and receive comments from a diverse user base of ActivityPub-compliant platforms.
 - [Betterdocs](https://wordpress.org/plugins/betterdocs/): BetterDocs will help you to create & organize your documentation page in a beautiful way that will make your visitors find any help article easily. It will facilitate your client to make faster decisions and get help on the spot by self-servicing instead of avoiding lengthy conversations.
+- [buddypress/buddypress](https://github.com/buddypress/buddypress): BuddyPress helps you build any kind of community website using WordPress, with member profiles, activity streams, user groups, messaging, and more.
 - [Friends](https://wordpress.org/plugins/friends/): The Friends plugin allows you to follow content from other WordPress sites, and interact with them on your own site. You can follow friends and others via RSS. If you also have the ActivityPub plugin installed, you can follow people on Mastodon and other ActivityPub-compatible social networks.
 - [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress): Powering our community's event management needs.
 - [Hum](https://wordpress.org/plugins/hum/): Hum is a personal URL shortener for WordPress, designed to provide short URLs to your personal content, both hosted on WordPress and elsewhere.
