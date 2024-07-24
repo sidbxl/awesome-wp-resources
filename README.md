@@ -35,6 +35,7 @@
 - [Automattic/studio](https://github.com/Automattic/studio): Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow.
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up): Plugins and resources to speed up and optimize your WordPress site.
+- [reduxframework/redux-framework](https://github.com/reduxframework/redux-framework): Redux is a simple, truly extensible options framework for WordPress themes and plugins!
 - [roots/acorn](https://github.com/roots/acorn): Laravel components for WordPress plugins and themes.
 - [roots/bedrock](https://github.com/roots/bedrock): WordPress boilerplate with Composer, easier configuration, and an improved folder structure.
 - [roots/bud](https://github.com/roots/bud): High-performance build system that supports SWC, esbuild, and Babel.
