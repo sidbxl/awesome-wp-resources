@@ -1,4 +1,4 @@
-# Awesome WP Resources
+# Awesome Wordpress Resources
 
 ## Custom Blocks
 - [ryanwelcher/advanced-query-loop](https://github.com/ryanwelcher/advanced-query-loop): WordPress plugin that introduces a Query Loop block variation that can create advanced queries.
