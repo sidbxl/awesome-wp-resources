@@ -20,11 +20,13 @@
 - [List of all WP Versions](https://fr.wordpress.org/support/article/wordpress-versions/)
 
 ## Themes
+*Mostly open-source and bloat-free*
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme): This is the home of Amnesty International's WordPress theme, which is currently in production use on over 30 sites.
 - [Automattic/_s](https://github.com/Automattic/_s): Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 - [Automattic/themes](https://github.com/Automattic/themes): The development repository for themes maintained by the Automattic Theme Team.
 - [flyntwp/flynt](https://github.com/flyntwp/flynt): Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for a11y and fast page load results.
 - [greenpeace/planet4-develop](https://github.com/greenpeace/planet4-develop): Planet 4, Greenpeace's website builder and digital engagement platform.
+- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft): HoverCraft is a free WordPress theme that saves you time by supporting popular layouts out-of-the-box, without any page builders or bloated add-ons required.
 - [OllieWP/ollie](https://github.com/OllieWP/ollie): A finely-crafted WordPress block theme by Mike McAlister.
 - [roots/sage](https://github.com/roots/sage): WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow.
 - [WordPress/theme-experiments](https://github.com/WordPress/theme-experiments): Experimenting with themes made out of blocks.
