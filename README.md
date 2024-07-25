@@ -19,6 +19,7 @@
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground): Run WordPress in the browser via WebAssembly PHP.
 - [WordPress/WordPress](https://github.com/WordPress/WordPress): WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository.
 - [List of all WP Versions](https://fr.wordpress.org/support/article/wordpress-versions/)
+- [Wordpress Learn](https://learn.wordpress.org/): Whether you’re a first-time blogger or seasoned developer, there’s always more to learn. From community members all over the world, these vast resources will help you learn more about WordPress and share it with others.
 
 ## Themes
 *Mostly open-source and bloat-free*
