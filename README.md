@@ -60,6 +60,16 @@
 - [Rootspersona](https://wordpress.org/plugins/rootspersona/): Rootspersona creates one or more pages of family history using data imported from one or more GEDCOM files.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce): A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
+## Other web resources
+- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js): fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple.
+- [awesome-bootstrap-org/awesome-bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap): Awesome - A curated list of amazing Bootstrap tools and themes.
+- [desandro/masonry](https://github.com/desandro/masonry): Cascading grid layout plugin
+- [imsky/holder](https://github.com/imsky/holder): Client-side image placeholders.
+- [michalsnik/aos](https://github.com/michalsnik/aos): Animate On Scroll Library.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js/): A lightweight JavaScript library for creating particles.
+- [wagerfield/parallax](https://github.com/wagerfield/parallax): Parallax Engine that reacts to the orientation of a smart device
+
 ## Deprecated
 - [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
 - [frontity/frontity](https://github.com/frontity/frontity): Frontity - The React Framework for WordPress. _Not under active development._
