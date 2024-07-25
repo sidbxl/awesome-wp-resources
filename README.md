@@ -45,6 +45,7 @@
 - [swissspidy/media-experiments](https://github.com/swissspidy/media-experiments): This experimental WordPress plugin aims to bring improved media capabilities to WordPress and specifically the block editor, all powered by new web platform features like WebAssembly.
 - [timber/timber](https://github.com/timber/timber): Create WordPress themes with beautiful OOP code and the Twig Template Engine.
 - [vinkla/wordplate](https://github.com/vinkla/wordplate): WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
+- [WordPress/create-block-theme](https://github.com/WordPress/create-block-theme): A WordPress plugin to create block themes.
 - [wp-bootstrap/wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker): A custom WordPress nav walker class to fully implement the Twitter Bootstrap 4.0+ navigation style (v3-branch available for Bootstrap 3) in a custom theme using the WordPress built in menu manager.
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan): WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
