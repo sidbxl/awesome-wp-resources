@@ -47,6 +47,7 @@
 - [vinkla/wordplate](https://github.com/vinkla/wordplate): WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [WordPress/create-block-theme](https://github.com/WordPress/create-block-theme): A WordPress plugin to create block themes.
 - [wp-bootstrap/wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker): A custom WordPress nav walker class to fully implement the Twitter Bootstrap 4.0+ navigation style (v3-branch available for Bootstrap 3) in a custom theme using the WordPress built in menu manager.
+- [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command): Diagnose problems within WordPress by running a series of checks for symptoms.
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan): WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
 ##  WaaS
@@ -68,6 +69,7 @@
 - [desandro/masonry](https://github.com/desandro/masonry): Cascading grid layout plugin
 - [imsky/holder](https://github.com/imsky/holder): Client-side image placeholders.
 - [michalsnik/aos](https://github.com/michalsnik/aos): Animate On Scroll Library.
+- [penpot/penpot](https://github.com/penpot/penpot): The open-source design tool for design and code collaboration.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js/): A lightweight JavaScript library for creating particles.
 - [wagerfield/parallax](https://github.com/wagerfield/parallax): Parallax Engine that reacts to the orientation of a smart device
