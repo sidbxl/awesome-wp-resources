@@ -61,6 +61,7 @@
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce): A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
 ## Other web resources
+* Mostly nice JS libraries *
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js): fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple.
 - [awesome-bootstrap-org/awesome-bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap): Awesome - A curated list of amazing Bootstrap tools and themes.
 - [desandro/masonry](https://github.com/desandro/masonry): Cascading grid layout plugin
