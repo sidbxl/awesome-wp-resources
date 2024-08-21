@@ -31,6 +31,7 @@
 - [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft): HoverCraft is a free WordPress theme that saves you time by supporting popular layouts out-of-the-box, without any page builders or bloated add-ons required.
 - [OllieWP/ollie](https://github.com/OllieWP/ollie): A finely-crafted WordPress block theme by Mike McAlister.
 - [roots/sage](https://github.com/roots/sage): WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow.
+- [WordPress/community-themes](https://github.com/WordPress/community-themes): A collection of Block Themes built by the WordPress community.
 - [WordPress/theme-experiments](https://github.com/WordPress/theme-experiments): Experimenting with themes made out of blocks.
 
 ## Tools, Experiments, Boilerplates
