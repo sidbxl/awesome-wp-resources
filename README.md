@@ -61,6 +61,7 @@
 - [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress): Powering our community's event management needs.
 - [Hum](https://wordpress.org/plugins/hum/): Hum is a personal URL shortener for WordPress, designed to provide short URLs to your personal content, both hosted on WordPress and elsewhere.
 - [kanbanwp/kanban](https://github.com/kanbanwp/kanban): A complete kanban board for WordPress.
+- Matomo [WP Plugins](https://fr.wordpress.org/plugins/matomo/) [Github](https://github.com/matomo-org/matomo): Matomo Analytics is the #1 used Google Analytics alternative that offers a powerful range of features, security and protects the privacy of your users.
 - [Rootspersona](https://wordpress.org/plugins/rootspersona/): Rootspersona creates one or more pages of family history using data imported from one or more GEDCOM files.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce): A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
