@@ -70,6 +70,7 @@
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js): fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple.
 - [awesome-bootstrap-org/awesome-bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap): Awesome - A curated list of amazing Bootstrap tools and themes.
 - [desandro/masonry](https://github.com/desandro/masonry): Cascading grid layout plugin
+- [devicons/devicon](https://github.com/devicons/devicon/): Set of icons representing programming languages, designing & development tools.
 - [imsky/holder](https://github.com/imsky/holder): Client-side image placeholders.
 - [michalsnik/aos](https://github.com/michalsnik/aos): Animate On Scroll Library.
 - [penpot/penpot](https://github.com/penpot/penpot): The open-source design tool for design and code collaboration.
